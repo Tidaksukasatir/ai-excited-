@@ -6,9 +6,12 @@
 
 An entry for [make.fun's "Make the AI judge excited" competition](https://make.fun/c/ai-excited-01).
 
-A colossal whale breaches out of a tiny glowing teacup, its spray
-turning into stars. The whole ocean and the night sky, poured out of
-a cup of tea — one impossible moment of scale, caught mid-breach.
+A colossal luminous blue whale breaches vertically out of a tiny white
+porcelain teacup on a saucer, its spray turning into stars. Warm golden
+light rises from the tea, steam curls into constellations, and the whole
+scene glows under a deep midnight-blue night sky — the entire ocean and
+the night sky, poured out of a cup of tea. One impossible moment of
+scale, caught mid-breach.
 
 ## How it works
 
